@@ -1,4 +1,5 @@
 Advanced Multi-Search with Service and Location Filters (AJAX)
+
 📌 Overview
 
 This PR introduces an advanced, AJAX-powered multi-search system for collection points. Users can now filter results dynamically by services and multiple location-based criteria without page reloads, ensuring a smooth and responsive user experience.
